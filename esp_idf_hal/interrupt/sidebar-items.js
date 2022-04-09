@@ -1,0 +1,1 @@
+initSidebarItems({"fn":[["active","Returns true if the currently active core is executing an ISR request"],["do_yield",""],["free","Executes closure f in an interrupt-free context"]],"struct":[["CriticalSection",""],["CriticalSectionGuard",""],["Mutex","A mutex based on critical sections"],["MutexGuard",""]]});
